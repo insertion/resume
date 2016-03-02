@@ -1,7 +1,7 @@
 # resume
 ## 语言能力
 * C/C++
-* ava
+* java
 * python
 * javascript
 * asm
